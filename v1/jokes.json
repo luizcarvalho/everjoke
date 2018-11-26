@@ -125,7 +125,7 @@
       "answer": "- Ah Olha o Elefante rosa subindo a serra!"
     },
     {
-      "question": "O que a Girafa falou para a outra quando viu um Elefante rosa subindo a serra de óculos? ",
+      "question": "O que a Girafa falou para a outra quando viu um Elefante rosa descendo a serra de óculos? ",
       "answer": "- Nada, não reconheceu ele!"
     },
     {
@@ -297,18 +297,6 @@
       "answer": "Não podes, oh idiota! Só há um Tarzan!"
     },
     {
-      "question": "Como o Elefante se disfarça na selva? ",
-      "answer": "Pinta o saco de vermelho e sobre num pé de amoras."
-    },
-    {
-      "question": "Qual o barulho mais alto da selva? ",
-      "answer": "Um macaco comendo amoras."
-    },
-    {
-      "question": "Como o Tarzan morreu? ",
-      "answer": "Comendo amoras."
-    },
-    {
       "question": "Porque é que os elefantes vivem em manadas? ",
       "answer": "Para conseguirem descontos na compra de Havaianas!"
     },
@@ -334,15 +322,11 @@
     },
     {
       "question": "Sabem como se caça uma manada de Elefantes? ",
-      "answer": "Põe-se um cartaz na selva com a seguinte frase: \"Vendem-se Alfacias\". Depois assobia. Os Elefantes vem todos contentinhos, veem o cartaz, desatam a rir e a dizer: \"Ha ha ha, está mal escrito\". Quando os bichos estiverem todos de patas para o ar de tanto rirem, é só virar os binóculos ao contrário e colocá-los dentro do saco."
+      "answer": "Põe-se um cartaz na selva com a seguinte frase: \"Vendem-se Alfacias\". Depois assobia. Os Elefantes vem todos contentinhos, veem o cartaz, caem de tanto rir dizendo: \"Ha ha ha, está mal escrito\". Quando os bichos estiverem todos de patas para o ar de tanto rirem, é só virar os binóculos ao contrário e colocá-los dentro do saco."
     },
     {
       "question": "Por que Elefantes tem a pele enrugada? ",
       "answer": "Porque suas patas não cabem no pote de Creme de Aveia Monange!"
-    },
-    {
-      "question": "Dois mineiros estavam pescando quando passou um Elefante voando. ",
-      "answer": "Um deles diz: cê viu compadre? "
     },
     {
       "question": "Por que não apareceu nenhum amigo no enterro do Elefante? ",
@@ -353,10 +337,6 @@
       "answer": "Não tem polegar para tocar a campainha."
     },
     {
-      "question": "Como é que tiras um Elefante do mar vermelho? ",
-      "answer": "Molhado."
-    },
-    {
       "question": "Como é que um Elefante passa despercebido no centro do Rio de Janeiro? ",
       "answer": "Com óculos escuros?"
     },
@@ -365,44 +345,24 @@
       "answer": "Nenhum Elefante."
     },
     {
-      "question": "Como você sabe que tem Elefantes na cama com você? ",
-      "answer": "Você encontra cascas de amendoim no lençol."
-    },
-    {
-      "question": "Adivinha o que eu tenho na mão? ",
-      "answer": "É cinza e grande! "
-    },
-    {
-      "question": "Por que os Elefantes pintam a ponta dos pés de amarelo? ",
-      "answer": "Para não serem notados de cabeça para baixo em uma tijela de creme de leite."
+      "question": "Adivinha o que eu tenho na mão? É cinza e grande!",
+      "answer": "Um Elefante?  \nAh, não vale, você viu o rabinho!"
     },
     {
       "question": "O que pensas quando vês 3 Elefantes descendo a rua vestindo camisas cor de rosa? ",
       "answer": "São todos da mesma equipe."
     },
     {
-      "question": "O que obténs quando cruzas um Elefante com uma formiga? ",
+      "question": "O que dá quando se cruza um elefante com uma formiga? ",
       "answer": "Uma formiga morta."
     },
     {
       "question": "O que é mais difícil do que colocar um Elefante em uma lata de Skol? ",
-      "answer": "Colocar lá 2 Elefantes."
-    },
-    {
-      "question": "O que é mais difícil do que colocar 2 Elefantes em uma lata de Skol? ",
-      "answer": "Colocar lá uma Elefante grávida."
-    },
-    {
-      "question": "Por que os pinguins usam enormes preservativos enfiados na cabeça? ",
-      "answer": "Porque se os Elefantes os pisam estão fodidos."
+      "answer": "Colocar 2 Elefantes."
     },
     {
       "question": "O que um amendoim diz a um Elefante? ",
       "answer": "Nada. Os amendoins não falam."
-    },
-    {
-      "question": "O que a Girafa disse para o Elefante quando estava descendo a ladeira? ",
-      "answer": "\"Oi Elefante.\""
     },
     {
       "question": "Por que o Elefante não pega fogo? ",
@@ -417,28 +377,16 @@
       "answer": "Porque não sabem ver as horas."
     },
     {
-      "question": "O que os elefantes usam como vibradores? ",
-      "answer": "Pigmeus epiléticos."
-    },
-    {
       "question": "Porque o Elefante é cinza, grande e enrugado? ",
-      "answer": "Porque se ele fosse branco, pequeno e liso ele seria uma aspirina!"
+      "answer": "Porque se ele fosse amarelo, pequeno e emplumado seria um canário."
     },
     {
       "question": "Por que o Elefante usa chapéu verde? ",
       "answer": "Pra poder atravessar mesas de sinuca sem que ninguém perceba."
     },
     {
-      "question": "O que se pensa quando se vê três Elefantes a passear na rua usando a mesma Tshirt? ",
-      "answer": "São do mesmo clube!"
-    },
-    {
-      "question": "Por que é que os Elefantes usam sandálias? ",
+      "question": "Por que é que os Elefantes usam Havaianas? ",
       "answer": "Para não afundarem na areia."
-    },
-    {
-      "question": "Por que é que as ostras espreitam por cima da areia? ",
-      "answer": "Para verem os elefantes que não trouxeram sandálias!"
     },
     {
       "question": "Porque o Elefante não dança Twist? ",
@@ -449,10 +397,6 @@
       "answer": "É que os elefantes podem ter pulgas, mas as pulgas não podem ter elefantes!"
     },
     {
-      "question": "Por que os elefantes não lutam boxe? ",
-      "answer": "Porque têm medo de levar na tromba."
-    },
-    {
       "question": "O que se dá a um elefante enjoado? ",
       "answer": "Muito espaço!"
     },
@@ -461,47 +405,15 @@
       "answer": "Otimismo."
     },
     {
-      "question": "O que se consegue levando um elefante à cidade? ",
-      "answer": "Estacionamento livre!"
-    },
-    {
-      "question": "O que se consegue levando um elefante para o emprego? ",
-      "answer": "Privacidade no elevador."
-    },
-    {
-      "question": "Como saber se um elefante está no pub? ",
-      "answer": "A bicicleta está lá fora!"
-    },
-    {
-      "question": "Como saber se dois elefantes estão no pub? ",
-      "answer": "Quando tem uma moça no corrimão!"
-    },
-    {
-      "question": "Quantos elefantes são precisos para trocarem uma lâmpada? ",
+      "question": "Quantos elefantes são precisos para trocarem uma lâmpada?",
       "answer": "Os elefantes não sabem trocar lâmpadas!"
-    },
-    {
-      "question": "Como saber se um elefante está debaixo da cama? ",
-      "answer": "Quando vêr a tromba tocando o teto!"
-    },
-    {
-      "question": "Qual é o orgão sexual dos elefantes? ",
-      "answer": "A pata. Se tentar coloca em cima de você estás fodido!"
-    },
-    {
-      "question": "O que diz a fêmea do elefante durante o ato sexual? ",
-      "answer": "Posso ficar por cima desta vez."
-    },
-    {
-      "question": "O que acontece quando um elefante se senta à tua frente no cinema? ",
-      "answer": "Perdes a maior parte do filme."
     },
     {
       "question": "O que é que os elefantes usam como preservativos? ",
       "answer": "Cobras"
     },
     {
-      "question": "O que é que os elefantes usam como tampões? ",
+      "question": "O que é que as elefantas usam como O.B.?",
       "answer": "Ovelhas."
     },
     {
@@ -517,18 +429,6 @@
       "answer": "Pra ver MARROMenos."
     },
     {
-      "question": "Por que os elefantes são encontrados na África? ",
-      "answer": "Porque são grandes demais para se esconderem."
-    },
-    {
-      "question": "Como transformar uma mulher gata num elefante? ",
-      "answer": "Case com ela."
-    },
-    {
-      "question": "É cinza, tem bolinhas vermelhas e não é pijama. O que é? ",
-      "answer": "Um Elefante com catapora."
-    },
-    {
       "question": "Como disfarçar um elefante em uma plantação de ameixas? ",
       "answer": " Coloca eles em cima de um pé de ameixa e pinta suas bolas de roxo"
     },
@@ -539,6 +439,10 @@
     {
       "question": "Qual o maior barulho da floresta? ",
       "answer": " Macacos comendo ameixa!"
+    },
+    {
+      "question": "Por que os elefantes são encontrados na África? ",
+      "answer": "Porque lá não tem plantações de ameixa."
     }
   ]
 }

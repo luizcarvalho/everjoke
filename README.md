@@ -18,3 +18,10 @@ Faltou alguma? sinta-se livre para contribuir com o projeto, Abra uma issue ou e
 Baixe o APP: https://play.google.com/store/apps/details?id=br.com.redrails.everjoke&hl=pt
 
 Siga nossa página: https://www.facebook.com/everjoke.elefantes
+
+Agradecimentos e contribuições:
+
+- Luiz Carvalho
+- Pedro Reis
+- Vanius Girodo
+- Marcos Medeiros
