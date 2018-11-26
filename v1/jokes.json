@@ -1,0 +1,544 @@
+{
+  "jokes": [
+    {
+      "question": "Você sabe uma piada suja e pesada? ",
+      "answer": "O elefante escorregou e caiu na lama."
+    },
+    {
+      "question": "Como matar um Elefante Roxo? ",
+      "answer": "Você atira com uma arma de matar Elefante roxo."
+    },
+    {
+      "question": "Como matar um Elefante Branco? ",
+      "answer": "Você aperta o pescoço dele até ele ficar roxo, e atira com uma arma de matar Elefante roxo."
+    },
+    {
+      "question": "Como matar um Elefante Amarelo? ",
+      "answer": "Você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo."
+    },
+    {
+      "question": "Como matar um Elefante Verde? ",
+      "answer": "Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo."
+    },
+    {
+      "question": "Como matar um Elefante Azul? ",
+      "answer": "Você provoca e irrita ele até ele ficar verde de raiva. Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo."
+    },
+    {
+      "question": "Como matar um Elefante Cinza? ",
+      "answer": "Deixe ele sem comer até ele ficar azul de fome. Aí você provoca e irrita ele até ele ficar verde de raiva. Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo. Mas é mais fácil atirar logo no Elefante cinza porque qualquer arma mata ele."
+    },
+    {
+      "question": "E marrom? ",
+      "answer": "Não vale a pena, pra que você vai querer matar um Elefante podre?"
+    },
+    {
+      "question": "Como matar 15 Elefantes de uma vez só? ",
+      "answer": "Pinte um Elefante azul de bolinhas rosas, e matará quatorze de rir e um de vergonha!"
+    },
+    {
+      "question": "Como se coloca um Elefante dentro de um Gol? ",
+      "answer": "Abre a porta do gol pega o Elefante, coloca dentro e fecha a porta."
+    },
+    {
+      "question": "Como colocar um Elefante na Geladeira? ",
+      "answer": "Abre a porta do gol pega o Elefante, fecha a porta do gol, abre a porta da geladeira, coloca o Elefante dentro e fecha a porta da geladeira!"
+    },
+    {
+      "question": "Como colocar 4 Elefantes dentro de um fusca cor de rosa? ",
+      "answer": "2 na frente e 2 atrás!"
+    },
+    {
+      "question": "Como saber que tem 4 Elefantes dentro de uma casa? ",
+      "answer": "É só ver se tem um fusca cor de rosa na frente!"
+    },
+    {
+      "question": "Como se coloca 4 Elefantes na geladeira? ",
+      "answer": "Coloca o fusca cor de rosa na geladeira."
+    },
+    {
+      "question": "Quantas Girafas consegues meter dentro de um Fusca cor de Rosa? ",
+      "answer": "Nenhuma. Os Elefantes estão lá dentro."
+    },
+    {
+      "question": "O rei da selva juntou todos os animais para uma reunião. Todos apareceram exceto os elefantes, por quê? ",
+      "answer": "Estavam todos presos no fusca!"
+    },
+    {
+      "question": "Quantos Elefantes consegues meter dentro de um Mercedes? ",
+      "answer": "Cinco. Dois à frente, dois atrás e um no porta luvas."
+    },
+    {
+      "question": "O que é mais difícil do que colocar um elefante no banco de trás de um carro? ",
+      "answer": "Colocar dois elefantes no banco de trás de um carro!"
+    },
+    {
+      "question": "Como colocar uma Girafa dentro da Geladeira? ",
+      "answer": "Abre a porta, tira o Elefante coloca a Girafa e fecha a porta!"
+    },
+    {
+      "question": "E se não couber dentro? ",
+      "answer": "Coloca um imã nas costas dele e prega na porta!"
+    },
+    {
+      "question": "Por que a mulher do Elefante deve ficar dentro da geladeira? ",
+      "answer": "Porque ElaéFanta!"
+    },
+    {
+      "question": "Como sabes que tem um Elefante na geladeira? ",
+      "answer": "Pelas pegadas na manteiga."
+    },
+    {
+      "question": "Como sabes que tem dois Elefante na geladeira? ",
+      "answer": "Pelas 8 pegadas na manteiga."
+    },
+    {
+      "question": "Como sabes que tem 3 Elefante na geladeira? ",
+      "answer": "A porta não fecha!"
+    },
+    {
+      "question": "Como você sabe que tem dois Elefantes na sua geladeira? ",
+      "answer": "Você ouve risadinhas quando a luz apaga."
+    },
+    {
+      "question": "Como você sabe que tem três Elefantes na sua geladeira? ",
+      "answer": "Você vê o rabinho de um preso pelo lado de fora da porta."
+    },
+    {
+      "question": "Como você sabe que tem quatro Elefantes na sua geladeira? ",
+      "answer": "O fusca está estacionado do lado de fora."
+    },
+    {
+      "question": "Porque há tantos elefantes na floresta? ",
+      "answer": "Na geladeira não tem espaco para todos!"
+    },
+    {
+      "question": "O rei Leão fez um reunião com todos os animais da floresta, quem faltou? ",
+      "answer": "A Girafa (na geladeira)."
+    },
+    {
+      "question": "O leão caminhava pela selva e pergunta ao papagaio: ",
+      "answer": "- Quem é o rei da selva? "
+    },
+    {
+      "question": "O que a Girafa falou para a outra quando viu um Elefante rosa subindo a serra? ",
+      "answer": "- Ah Olha o Elefante rosa subindo a serra!"
+    },
+    {
+      "question": "O que a Girafa falou para a outra quando viu um Elefante rosa subindo a serra de óculos? ",
+      "answer": "- Nada, não reconheceu ele!"
+    },
+    {
+      "question": "Por que o Elefante usa tênis cinza? ",
+      "answer": "Para combinar com a cor!"
+    },
+    {
+      "question": "Por que Elefantes usam tênis roxos? ",
+      "answer": "Para não sujar os cinzas!"
+    },
+    {
+      "question": "Por que Elefantes atravessam o lago de costas? ",
+      "answer": "Para não molhar seus tênis roxos!"
+    },
+    {
+      "question": "Por que as formigas olham por cima da areia? ",
+      "answer": "Para ver os Elefantes que estão sem tênis roxos!"
+    },
+    {
+      "question": "Como se passa um Elefante por baixo da porta? ",
+      "answer": "Coloca ele dentro de um envelope e passa por baixo da porta!"
+    },
+    {
+      "question": "E se não passar? ",
+      "answer": "Tira o selo!"
+    },
+    {
+      "question": "E se ainda não passar? ",
+      "answer": "Tira-se o remetente!"
+    },
+    {
+      "question": "Mas como se coloca o Elefante dentro do envelope? ",
+      "answer": "Pega-se um helicóptero sobe até tudo ficar bem pequeno, ai você pega o Elefante e coloca no envelope!"
+    },
+    {
+      "question": "Como você faz para evitar que um elefante passe por baixo da porta? ",
+      "answer": "É só dar um nozinho no rabo dele"
+    },
+    {
+      "question": "Por que Deus fez os Elefantes cinzentos? ",
+      "answer": "Para que eles não fossem confundidos com canários."
+    },
+    {
+      "question": "Qual a semelhança entre o Elefante e os canários? ",
+      "answer": "Ambos sabem voar menos o Elefante!"
+    },
+    {
+      "question": "O que é um Elefante em cima de uma árvore? ",
+      "answer": "Um Elefante a menos na face da Terra."
+    },
+    {
+      "question": "O que são 2 Elefantes em cima de uma árvore? ",
+      "answer": "Dois Elefantes a menos na Terra..."
+    },
+    {
+      "question": "E o que é são 3 Elefantes em cima da mesma árvore? ",
+      "answer": "Uma árvore a menos na Terra!"
+    },
+    {
+      "question": "Por que o Elefante caiu da árvore? ",
+      "answer": "Porque ele era um Elefante marrom."
+    },
+    {
+      "question": "Por que um segundo Elefante caiu da árvore? ",
+      "answer": "Porque estava agarrado ao primeiro."
+    },
+    {
+      "question": "Por que um terceiro Elefante caiu da árvore? ",
+      "answer": "Pensava que era um jogo."
+    },
+    {
+      "question": "E por que a árvore cai? ",
+      "answer": "Pensa que é um Elefante."
+    },
+    {
+      "question": "Como se esconde um elefante numa plantação de morangos? ",
+      "answer": "Pinte as unhas dele de vermelho."
+    },
+    {
+      "question": "Você já viu um elefante escondido numa plantação de morangos? ",
+      "answer": "Não? Viu só como ele disfarça bem!"
+    },
+    {
+      "question": "Por que não se deve ir para a floresta entre as 3 e 4 da madrugada? ",
+      "answer": "Porque os elefantes estão a saltar das árvores."
+    },
+    {
+      "question": "Por que não se deve ir para os bosques às 5 da manhã? ",
+      "answer": "É quando os elefantes treinam o paraquedismo!"
+    },
+    {
+      "question": "Por que os jacarés são achatados? ",
+      "answer": "Porque estavam no bosque!"
+    },
+    {
+      "question": "O que é bonito, cinzento e usa chinelos de cristal? ",
+      "answer": "Cinderelefante!"
+    },
+    {
+      "question": "Por que os elefantes têm as patas assim? ",
+      "answer": "Para passearem sobre os lírios!"
+    },
+    {
+      "question": "Por que não é seguro ir para os campos de lírios entre as 4 e 6 da tarde? ",
+      "answer": "É quando os elefantes andam a passear sobre os lírios!"
+    },
+    {
+      "question": "Por que os sapos são tão baixos? ",
+      "answer": "Porque vão para os campos de lírios entre as 4 e 6 da tarde."
+    },
+    {
+      "question": "Como o elefante faz para descer da árvore? ",
+      "answer": "Senta em uma folha e espera o outono chegar."
+    },
+    {
+      "question": "Como é que um Elefante se disfarça no meio da selva? ",
+      "answer": "Pinta as unhas de vermelho e sobe para cima de uma cerejeira! "
+    },
+    {
+      "question": "Como morreu o Tarzan? ",
+      "answer": "Ao apanhar cerejas."
+    },
+    {
+      "question": "Como se coloca um Elefante em cima de uma cerejeira? ",
+      "answer": "Planta a semente, coloca o Elefante em cima e espera nascer!"
+    },
+    {
+      "question": "Como é que o Elefante desce da cerejeira? ",
+      "answer": "Senta-se em cima de uma folha e espera pelo outono."
+    },
+    {
+      "question": "Por que as galinhas atravessam a estrada? ",
+      "answer": "Para irem para o outro lado."
+    },
+    {
+      "question": "Por que os Elefantes atravessam a estrada? ",
+      "answer": "Porque é dia de folga das galinhas."
+    },
+    {
+      "question": "O que diz o Tarzan quando vê uma manada de elefantes no horizonte? ",
+      "answer": "Vejam, uma manada de elefantes no horizonte!"
+    },
+    {
+      "question": "O que diz o Tarzan quando vê uma manada de elefantes com óculos de sol? ",
+      "answer": "Nada. Ele não os reconhece!"
+    },
+    {
+      "question": "O que diz o Tarzan quando vê uma manada de girafas no horizonte? ",
+      "answer": "Haha! Vocês enganaram-me uma vez com esses disfarces, mas agora não!"
+    },
+    {
+      "question": "Qual é a diferença entre um elefante e uma ameixa? ",
+      "answer": "O elefante é cinzento !"
+    },
+    {
+      "question": "O que diz Jane quando vê uma manada de girafas no horizonte? ",
+      "answer": "Vejam, uma manada de ameixas no horizonte!"
+    },
+    {
+      "question": "Como colocas o Tarzan dentro de uma  geladeira? ",
+      "answer": "Abre a porta, tira o fusca de dentro, coloca o Tarzan, fecha a porta."
+    },
+    {
+      "question": "Como sabes se o Tarzan está dentro da geladeira? ",
+      "answer": "Podes ouvir o Tarzan a gritar OIOIOIOIOIOIOIOOOOOOOOOOOOOOOOOOO."
+    },
+    {
+      "question": "Como colocas 2 Tarzans dentro de uma geladeira? ",
+      "answer": "Não podes, oh idiota! Só há um Tarzan!"
+    },
+    {
+      "question": "Como o Elefante se disfarça na selva? ",
+      "answer": "Pinta o saco de vermelho e sobre num pé de amoras."
+    },
+    {
+      "question": "Qual o barulho mais alto da selva? ",
+      "answer": "Um macaco comendo amoras."
+    },
+    {
+      "question": "Como o Tarzan morreu? ",
+      "answer": "Comendo amoras."
+    },
+    {
+      "question": "Porque é que os elefantes vivem em manadas? ",
+      "answer": "Para conseguirem descontos na compra de Havaianas!"
+    },
+    {
+      "question": "Como você sabe que tem um elefante na piscina? ",
+      "answer": "É só ver se a Havaianas dele está na borda da piscina."
+    },
+    {
+      "question": "Por que o Elefante foi na piscina de short branco e bolinha azul? ",
+      "answer": "Porque o de bolinhas vermelhas estava lavando."
+    },
+    {
+      "question": "Como o Elefante entra na piscina? ",
+      "answer": "Pela escada."
+    },
+    {
+      "question": "Como ele sai da piscina? ",
+      "answer": "Molhado."
+    },
+    {
+      "question": "Como é que se tira dois elefantes da piscina? ",
+      "answer": "Um de cada vez."
+    },
+    {
+      "question": "Sabem como se caça uma manada de Elefantes? ",
+      "answer": "Põe-se um cartaz na selva com a seguinte frase: \"Vendem-se Alfacias\". Depois assobia. Os Elefantes vem todos contentinhos, veem o cartaz, desatam a rir e a dizer: \"Ha ha ha, está mal escrito\". Quando os bichos estiverem todos de patas para o ar de tanto rirem, é só virar os binóculos ao contrário e colocá-los dentro do saco."
+    },
+    {
+      "question": "Por que Elefantes tem a pele enrugada? ",
+      "answer": "Porque suas patas não cabem no pote de Creme de Aveia Monange!"
+    },
+    {
+      "question": "Dois mineiros estavam pescando quando passou um Elefante voando. ",
+      "answer": "Um deles diz: cê viu compadre? "
+    },
+    {
+      "question": "Por que não apareceu nenhum amigo no enterro do Elefante? ",
+      "answer": "Ninguém queria carregar o caixão!"
+    },
+    {
+      "question": "Por que um Elefante não anda de bicicleta? ",
+      "answer": "Não tem polegar para tocar a campainha."
+    },
+    {
+      "question": "Como é que tiras um Elefante do mar vermelho? ",
+      "answer": "Molhado."
+    },
+    {
+      "question": "Como é que um Elefante passa despercebido no centro do Rio de Janeiro? ",
+      "answer": "Com óculos escuros?"
+    },
+    {
+      "question": "O que é cinzento e não está lá? ",
+      "answer": "Nenhum Elefante."
+    },
+    {
+      "question": "Como você sabe que tem Elefantes na cama com você? ",
+      "answer": "Você encontra cascas de amendoim no lençol."
+    },
+    {
+      "question": "Adivinha o que eu tenho na mão? ",
+      "answer": "É cinza e grande! "
+    },
+    {
+      "question": "Por que os Elefantes pintam a ponta dos pés de amarelo? ",
+      "answer": "Para não serem notados de cabeça para baixo em uma tijela de creme de leite."
+    },
+    {
+      "question": "O que pensas quando vês 3 Elefantes descendo a rua vestindo camisas cor de rosa? ",
+      "answer": "São todos da mesma equipe."
+    },
+    {
+      "question": "O que obténs quando cruzas um Elefante com uma formiga? ",
+      "answer": "Uma formiga morta."
+    },
+    {
+      "question": "O que é mais difícil do que colocar um Elefante em uma lata de Skol? ",
+      "answer": "Colocar lá 2 Elefantes."
+    },
+    {
+      "question": "O que é mais difícil do que colocar 2 Elefantes em uma lata de Skol? ",
+      "answer": "Colocar lá uma Elefante grávida."
+    },
+    {
+      "question": "Por que os pinguins usam enormes preservativos enfiados na cabeça? ",
+      "answer": "Porque se os Elefantes os pisam estão fodidos."
+    },
+    {
+      "question": "O que um amendoim diz a um Elefante? ",
+      "answer": "Nada. Os amendoins não falam."
+    },
+    {
+      "question": "O que a Girafa disse para o Elefante quando estava descendo a ladeira? ",
+      "answer": "\"Oi Elefante.\""
+    },
+    {
+      "question": "Por que o Elefante não pega fogo? ",
+      "answer": "Porque ele é cinza."
+    },
+    {
+      "question": "Como é que se faz para passar um Elefante no buraco de uma agulha? ",
+      "answer": "Dá uma lambidinha na ponta do rabinho dele."
+    },
+    {
+      "question": "Por que é que os pigmeus são tão pequenos? ",
+      "answer": "Porque não sabem ver as horas."
+    },
+    {
+      "question": "O que os elefantes usam como vibradores? ",
+      "answer": "Pigmeus epiléticos."
+    },
+    {
+      "question": "Porque o Elefante é cinza, grande e enrugado? ",
+      "answer": "Porque se ele fosse branco, pequeno e liso ele seria uma aspirina!"
+    },
+    {
+      "question": "Por que o Elefante usa chapéu verde? ",
+      "answer": "Pra poder atravessar mesas de sinuca sem que ninguém perceba."
+    },
+    {
+      "question": "O que se pensa quando se vê três Elefantes a passear na rua usando a mesma Tshirt? ",
+      "answer": "São do mesmo clube!"
+    },
+    {
+      "question": "Por que é que os Elefantes usam sandálias? ",
+      "answer": "Para não afundarem na areia."
+    },
+    {
+      "question": "Por que é que as ostras espreitam por cima da areia? ",
+      "answer": "Para verem os elefantes que não trouxeram sandálias!"
+    },
+    {
+      "question": "Porque o Elefante não dança Twist? ",
+      "answer": "Porque ele não consegue estalar os dedinhos."
+    },
+    {
+      "question": "Qual é a diferença entre as pulgas e os elefantes? ",
+      "answer": "É que os elefantes podem ter pulgas, mas as pulgas não podem ter elefantes!"
+    },
+    {
+      "question": "Por que os elefantes não lutam boxe? ",
+      "answer": "Porque têm medo de levar na tromba."
+    },
+    {
+      "question": "O que se dá a um elefante enjoado? ",
+      "answer": "Muito espaço!"
+    },
+    {
+      "question": "Como se chama dois elefantes numa bicicleta? ",
+      "answer": "Otimismo."
+    },
+    {
+      "question": "O que se consegue levando um elefante à cidade? ",
+      "answer": "Estacionamento livre!"
+    },
+    {
+      "question": "O que se consegue levando um elefante para o emprego? ",
+      "answer": "Privacidade no elevador."
+    },
+    {
+      "question": "Como saber se um elefante está no pub? ",
+      "answer": "A bicicleta está lá fora!"
+    },
+    {
+      "question": "Como saber se dois elefantes estão no pub? ",
+      "answer": "Quando tem uma moça no corrimão!"
+    },
+    {
+      "question": "Quantos elefantes são precisos para trocarem uma lâmpada? ",
+      "answer": "Os elefantes não sabem trocar lâmpadas!"
+    },
+    {
+      "question": "Como saber se um elefante está debaixo da cama? ",
+      "answer": "Quando vêr a tromba tocando o teto!"
+    },
+    {
+      "question": "Qual é o orgão sexual dos elefantes? ",
+      "answer": "A pata. Se tentar coloca em cima de você estás fodido!"
+    },
+    {
+      "question": "O que diz a fêmea do elefante durante o ato sexual? ",
+      "answer": "Posso ficar por cima desta vez."
+    },
+    {
+      "question": "O que acontece quando um elefante se senta à tua frente no cinema? ",
+      "answer": "Perdes a maior parte do filme."
+    },
+    {
+      "question": "O que é que os elefantes usam como preservativos? ",
+      "answer": "Cobras"
+    },
+    {
+      "question": "O que é que os elefantes usam como tampões? ",
+      "answer": "Ovelhas."
+    },
+    {
+      "question": "Por que o elefante usa óculos vermelhos? ",
+      "answer": "Pra VER MELHOr."
+    },
+    {
+      "question": "Por que o elefante usa óculos verdes? ",
+      "answer": "Pra VER DE perto"
+    },
+    {
+      "question": "Por que o elefante usa óculos marrom? ",
+      "answer": "Pra ver MARROMenos."
+    },
+    {
+      "question": "Por que os elefantes são encontrados na África? ",
+      "answer": "Porque são grandes demais para se esconderem."
+    },
+    {
+      "question": "Como transformar uma mulher gata num elefante? ",
+      "answer": "Case com ela."
+    },
+    {
+      "question": "É cinza, tem bolinhas vermelhas e não é pijama. O que é? ",
+      "answer": "Um Elefante com catapora."
+    },
+    {
+      "question": "Como disfarçar um elefante em uma plantação de ameixas? ",
+      "answer": " Coloca eles em cima de um pé de ameixa e pinta suas bolas de roxo"
+    },
+    {
+      "question": "Já viram um elefante em um pé de ameixa? ",
+      "answer": " Viram como eles se disfarçam bem?"
+    },
+    {
+      "question": "Qual o maior barulho da floresta? ",
+      "answer": " Macacos comendo ameixa!"
+    }
+  ]
+}
