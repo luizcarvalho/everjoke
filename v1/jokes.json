@@ -21,20 +21,12 @@
       "answer": "Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo."
     },
     {
-      "question": "Como matar um Elefante Azul? ",
-      "answer": "Você provoca e irrita ele até ele ficar verde de raiva. Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo."
-    },
-    {
-      "question": "Como matar um Elefante Cinza? ",
-      "answer": "Deixe ele sem comer até ele ficar azul de fome. Aí você provoca e irrita ele até ele ficar verde de raiva. Espera ele amadurecer até ficar amarelo e cair. Aí você dá um susto nele pra ele ficar branco, aperta o pescoço dele até ele ficar roxo e atira com uma arma de matar Elefante roxo. Mas é mais fácil atirar logo no Elefante cinza porque qualquer arma mata ele."
-    },
-    {
-      "question": "E marrom? ",
-      "answer": "Não vale a pena, pra que você vai querer matar um Elefante podre?"
+      "question": "Como matar um elefante cinza? ",
+      "answer": "Ué, com qualquer arma!"
     },
     {
       "question": "Como matar 15 Elefantes de uma vez só? ",
-      "answer": "Pinte um Elefante azul de bolinhas rosas, e matará quatorze de rir e um de vergonha!"
+      "answer": "Pinte um elefante roxo de bolinhas rosas. Você matará quatorze de rir e um de vergonha!"
     },
     {
       "question": "Como se coloca um Elefante dentro de um Gol? ",
@@ -65,8 +57,20 @@
       "answer": "Estavam todos presos no fusca!"
     },
     {
-      "question": "Quantos Elefantes consegues meter dentro de um Mercedes? ",
-      "answer": "Cinco. Dois à frente, dois atrás e um no porta luvas."
+      "question": "Como disfarçar um elefante em uma plantação de ameixas? ",
+      "answer": " Coloca eles em cima de um pé de ameixa e pinta suas bolas de roxo"
+    },
+    {
+      "question": "Já viram um elefante em um pé de ameixa? ",
+      "answer": " Viram como eles se disfarçam bem?"
+    },
+    {
+      "question": "Qual o maior barulho da floresta? ",
+      "answer": " Macacos comendo ameixa!"
+    },
+    {
+      "question": "Por que os elefantes são encontrados na África? ",
+      "answer": "Porque lá não tem plantações de ameixa."
     },
     {
       "question": "O que é mais difícil do que colocar um elefante no banco de trás de um carro? ",
@@ -78,7 +82,7 @@
     },
     {
       "question": "E se não couber dentro? ",
-      "answer": "Coloca um imã nas costas dele e prega na porta!"
+      "answer": "Coloca um imã nas costas dela e prega na porta!"
     },
     {
       "question": "Por que a mulher do Elefante deve ficar dentro da geladeira? ",
@@ -89,24 +93,8 @@
       "answer": "Pelas pegadas na manteiga."
     },
     {
-      "question": "Como sabes que tem dois Elefante na geladeira? ",
-      "answer": "Pelas 8 pegadas na manteiga."
-    },
-    {
-      "question": "Como sabes que tem 3 Elefante na geladeira? ",
+      "question": "Como sabes que tem 2 Elefante na geladeira? ",
       "answer": "A porta não fecha!"
-    },
-    {
-      "question": "Como você sabe que tem dois Elefantes na sua geladeira? ",
-      "answer": "Você ouve risadinhas quando a luz apaga."
-    },
-    {
-      "question": "Como você sabe que tem três Elefantes na sua geladeira? ",
-      "answer": "Você vê o rabinho de um preso pelo lado de fora da porta."
-    },
-    {
-      "question": "Como você sabe que tem quatro Elefantes na sua geladeira? ",
-      "answer": "O fusca está estacionado do lado de fora."
     },
     {
       "question": "Porque há tantos elefantes na floresta? ",
@@ -117,8 +105,12 @@
       "answer": "A Girafa (na geladeira)."
     },
     {
-      "question": "O leão caminhava pela selva e pergunta ao papagaio: ",
-      "answer": "- Quem é o rei da selva? "
+      "question": "O rei Leão fez um reunião com todos os animais da floresta, quem faltou? ",
+      "answer": "A Girafa (na geladeira)."
+    },
+    {
+      "question": "Uma criança está a beira de um rio povoado por crocodilos famintos. Ela sabe nadar e precisa atravessar o rio. O ela deve fazer?",
+      "answer": "É só nadar, porque os crocodilos estão na reunião."
     },
     {
       "question": "O que a Girafa falou para a outra quando viu um Elefante rosa subindo a serra? ",
@@ -141,20 +133,12 @@
       "answer": "Para não molhar seus tênis roxos!"
     },
     {
-      "question": "Por que as formigas olham por cima da areia? ",
-      "answer": "Para ver os Elefantes que estão sem tênis roxos!"
-    },
-    {
       "question": "Como se passa um Elefante por baixo da porta? ",
       "answer": "Coloca ele dentro de um envelope e passa por baixo da porta!"
     },
     {
       "question": "E se não passar? ",
       "answer": "Tira o selo!"
-    },
-    {
-      "question": "E se ainda não passar? ",
-      "answer": "Tira-se o remetente!"
     },
     {
       "question": "Mas como se coloca o Elefante dentro do envelope? ",
@@ -427,22 +411,6 @@
     {
       "question": "Por que o elefante usa óculos marrom? ",
       "answer": "Pra ver MARROMenos."
-    },
-    {
-      "question": "Como disfarçar um elefante em uma plantação de ameixas? ",
-      "answer": " Coloca eles em cima de um pé de ameixa e pinta suas bolas de roxo"
-    },
-    {
-      "question": "Já viram um elefante em um pé de ameixa? ",
-      "answer": " Viram como eles se disfarçam bem?"
-    },
-    {
-      "question": "Qual o maior barulho da floresta? ",
-      "answer": " Macacos comendo ameixa!"
-    },
-    {
-      "question": "Por que os elefantes são encontrados na África? ",
-      "answer": "Porque lá não tem plantações de ameixa."
     }
   ]
 }
