@@ -93,7 +93,6 @@
       if (request.readyState === XMLHttpRequest.DONE) {
         if (request.status === 200) {
           var response = JSON.parse(request.response);
-          console.log(response);
           var jokes = response.jokes;
           app.updateJokes(jokes);
         }

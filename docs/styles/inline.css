@@ -71,7 +71,7 @@ body {
   width: 100%;
   height: 56px;
   color: #FFF;
-  background: #3F51B5;
+  background: #3396d9;
   position: fixed;
   font-size: 20px;
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 2px 9px 1px rgba(0, 0, 0, 0.12), 0 4px 2px -2px rgba(0, 0, 0, 0.2);
@@ -121,6 +121,13 @@ body {
     background: url(../images/ic_refresh_white_24px.svg) center center no-repeat; }
   .header #butAdd {
     background: url(../images/ic_add_white_24px.svg) center center no-repeat; }
+
+  .header #logo {
+    width: 24px;
+    height: 24px;
+    padding-right: 45px;
+    background: url(../images/logo.svg) center center no-repeat;
+  }
 
 .header__title {
   font-weight: 400;
