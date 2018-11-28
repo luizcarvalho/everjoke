@@ -86,9 +86,6 @@
    * freshest data.
    */
   app.getJokes = function() {
-    var url = 'https://raw.githubusercontent.com/luizcarvalho/everjoke/master/v1/jokes.json';
-    // TODO add cache logic here
-    console.log('antes de fazer a questest')
 
     // Fetch the latest data.
     var request = new XMLHttpRequest();
@@ -102,7 +99,7 @@
         }
       }
     };
-    request.open('GET', url);
+    request.open('GET', app.api_url);
     request.send();
   };
 
